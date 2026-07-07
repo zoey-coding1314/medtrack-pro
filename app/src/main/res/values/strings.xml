@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MedTrack</string>
+    <string name="title_activity_login_page">LoginPage</string>
+    <string name="title_activity_signin_page">SigninPage</string>
+    <string name="title_activity_signup_page">SignupPage</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_add_medication_page">AddMedicationPage</string>
+    <string name="title_activity_symptoms_page">SymptomsPage</string>
+    <string name="action_go">Go</string>
+    <string name="results_placeholder"> </string>
+    <string name="label_prompt">Prompt</string>
+</resources>
